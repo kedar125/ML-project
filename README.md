@@ -148,24 +148,3 @@ CONCLUSION
 The popularity and effectiveness of the Movie Recommendation System has been on the rise since the launch of various entertainment services. These services rely heavily on this system to retain its users. Based on the models that we have trained, we can concur that the KNN model is more accurate and faster in predicting the appropriate movies than the rest of the models.
 Therefore based on the above inference, we can conclude that the KNN model is more accurate at predicting the movies than the SVM model.
 
-
-
-
-REFERENCES
-⦁	https://www.tutorialspoint.com/python/index.htm
-⦁	https://www.edureka.co/blog/python-libraries/
-⦁	https://hackernoon.com/top-10-libraries-in-python-to-implement-machine-learning-12602cf5dc61
-⦁	https://docs.aws.amazon.com/emr/latest/ReleaseGuide/emr-jupyter.html
-⦁	https://docs.python.org/2.4/lib/module-Tkinter.html
-⦁	https://www.geeksforgeeks.org/python-tkinter-spinbox/
-⦁	k-means clustering - Wikipedia. https://en.wikipedia.org/wiki/K-means_algorithm
-⦁	https://towardsdatascience.com/support-vector-machine-introduction-to-machine-learning-algorithms-934a444fca47
-⦁	Pros and Cons of K-Nearest Neighbors - From The GENESIS. https://www.fromthegenesis.com/pros-and-cons-of-k-nearest-neighbors/
-⦁	K-Nearest Neighbors (KNN) Algorithm for Machine Learning. https://medium.com/capital-one-tech/k-nearest-neighbors-knn-algorithm-for-machine-learning-e883219c8f26
-⦁	https://www.datavedas.com/knn-distance-metrics/
-⦁	https://towardsdatascience.com/knn-visualization-in-just-13-lines-of-code-32820d72c6b6
-⦁	https://towardsdatascience.com/12-amazing-pandas-numpy-functions-22e5671a45b8
-⦁	https://medium.com/research-studies-by-alvaro-bartolome/investpy-a-python-library-for-historical-data-extraction-from-the-spanish-stock-market-ad4d564dbfc5
-⦁	https://medium.com/@pranav3nov/data-visualization-in-python-c49fda103218
-⦁	Columnar · PyPI. https://pypi.org/project/Columnar/
-⦁	https://medium.com/capital-one-tech/k-nearest-neighbors-knn-algorithm-for-machine-learning-e883219c8f26
