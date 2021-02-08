@@ -338,7 +338,10 @@ def find():
             break
         tab=tk.Label(window4,text=data[i][0])
         canvas6.create_window(200,250+(20*i),window=tab)
+
         tab=tk.Label(window4,text=data[i][1])
+
+     
         canvas6.create_window(430,250+(20*i),window=tab)
 
 
