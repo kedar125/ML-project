@@ -13,12 +13,11 @@ import matplotlib.pyplot as plt
 
 
 dataset = pd.read_csv("IMDB-Movie-Data.csv")
-
+print(dataset)
 
 x=dataset.iloc[:,[8,9]].values
+print(x)
 
-
-# # Elbow Plot
 
 # In[3]:
 
@@ -40,16 +39,14 @@ plt.xlabel("Number of clusters")
 plt.ylabel("WCSS")
 plt.show()
 
-
 # In[4]:
 
 
 kmeans = KMeans(n_clusters = 4, init = "k-means++", random_state = 0)
 kmeans.fit(x)
 y_kmeans = kmeans.predict(x)
+print(y_kmeans)
 
-
-# # Cluster plot with n_cluster=4
 
 # In[5]:
 
@@ -67,7 +64,7 @@ plt.ylabel("Votes")
 plt.legend()
 plt.show()
 
-import homepage
+
 # In[ ]:
 
 
